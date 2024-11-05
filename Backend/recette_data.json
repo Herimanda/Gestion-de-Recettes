@@ -1,0 +1,74 @@
+{
+    "recettes": [
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000001"},
+        "nom": "Salade César",
+        "description": "Une salade classique et rafraîchissante",
+        "instructions": "1. Laver et couper la laitue. 2. Préparer la vinaigrette. 3. Ajouter le poulet grillé, les croûtons et le parmesan. 4. Mélanger et servir.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": false,
+        "categorie": "Entrée",
+        "image_url": "https://rians.com/wp-content/uploads/2024/04/1000038128.jpg"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000002"},
+        "nom": "Spaghetti Bolognaise",
+        "description": "Un classique italien réconfortant",
+        "instructions": "1. Cuire les spaghetti. 2. Préparer la sauce bolognaise. 3. Mélanger et servir avec du parmesan râpé.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": false,
+        "categorie": "Plat principal",
+        "image_url": "https://img.cuisineaz.com/660x660/2016/07/29/i84653-spaghettis-bolognaise-rapides.jpg"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000003"},
+        "nom": "Smoothie aux fruits rouges",
+        "description": "Un smoothie rafraîchissant et plein de vitamines",
+        "instructions": "1. Mixer tous les ingrédients. 2. Servir frais.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": true,
+        "categorie": "Boisson",
+        "image_url": "https://wordpress.potagercity.fr/wp-content/uploads/2019/05/Smoothie-past%C3%A8que-fruits-rouges.jpg"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000004"},
+        "nom": "Quiche Lorraine",
+        "description": "Une quiche savoureuse et facile à préparer",
+        "instructions": "1. Préparer la pâte. 2. Mélanger les œufs, la crème et le lait. 3. Ajouter les lardons et le fromage. 4. Cuire au four.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": false,
+        "categorie": "Plat principal",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcsxJ1feXNIf9yaTHIV7heBkvC-dWYNEipAQ&s"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000005"},
+        "nom": "Salade de fruits",
+        "description": "Un dessert frais et léger",
+        "instructions": "1. Couper tous les fruits en morceaux. 2. Mélanger dans un saladier. 3. Ajouter le jus de citron et le sucre. 4. Réfrigérer avant de servir.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": true,
+        "categorie": "Dessert",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPwxUZP4pcIGfzf_KxHSPuDPo6nz_ZluTLQ&s"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000006"},
+        "nom": "Omelette aux champignons",
+        "description": "Une omelette savoureuse et nourrissante",
+        "instructions": "1. Battre les œufs. 2. Faire revenir les champignons. 3. Cuire l'omelette. 4. Servir chaud.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": true,
+        "categorie": "Plat principal",
+        "image_url": "https://img.cuisineaz.com/660x660/2013/12/20/i72293-omelette-aux-champignons.jpeg"
+      },
+      {
+        "_id": {"$oid": "60d5ec9f1c9d440000000007"},
+        "nom": "Tarte aux pommes",
+        "description": "Un dessert classique et réconfortant",
+        "instructions": "1. Préparer la pâte. 2. Éplucher et couper les pommes. 3. Disposer les pommes sur la pâte. 4. Cuire au four.",
+        "cree_par": "67124780eefa14a448508f8a",
+        "vegetarien": true,
+        "categorie": "Dessert",
+        "image_url": "https://static.750g.com/images/1200-630/9823eb627203c878f3e36d72f8ce6d1c/tarte-aux-pommes.jpg"
+      }
+    ]
+  }
